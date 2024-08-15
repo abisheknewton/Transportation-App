@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: 91809
+Build-Jdk: 18.0.2
+Implementation-Title: micro-wishlist-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.ahasan
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/micro-wishlist-service
+Created-By: Maven Integration for Eclipse
+
